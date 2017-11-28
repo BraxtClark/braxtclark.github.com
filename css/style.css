@@ -11,7 +11,7 @@ body {
 
 h1{
   font-family: "Audiowide", cursive;
-  color:  #84c14f;
+  color: #84c14f;
 }
 
 h2{
@@ -19,7 +19,7 @@ h2{
   color: #D4D8D8;
 }
 
-.thatsAllFolks, {
+.thatsAllFolks {
    display: flex;
    justify-content: center;
 
