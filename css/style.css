@@ -16,7 +16,7 @@ h2{
   color: #D4D8D8;
 }
 
-.thatsAllFolks, .thatsAllFolksTwo {
+.thatsAllFolks, {
   background: #3a3a3a;
     display: flex;
     justify-content: center;
