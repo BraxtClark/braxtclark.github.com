@@ -14,11 +14,4 @@ h2{
   color: #D4D8D8;
 }
 
-.thatsAllFolks {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-wrap: wrap;
-   background: #3A3A3A;
-}
 
