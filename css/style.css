@@ -8,7 +8,7 @@ body {}
 
 h1{
   font-family: "Audiowide", cursive;
-  color:  #ABE490;
+  color:  #84c14f;
 }
 
 h2{
@@ -17,11 +17,17 @@ h2{
 }
 
 .thatsAllFolks, {
-  background: #3a3a3a;
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    height: auto;
-    flex-wrap: wrap;
-    margin: 0 auto;
+   background: #3a3a3a;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   height: auto;
+   flex-wrap: wrap;
+   margin: 0 auto;
   }
+
+.sec {
+  display: flex;
+  background:  #3a3a3a;
+  justifty-content: center;
+}
