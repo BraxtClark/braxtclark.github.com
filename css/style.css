@@ -17,7 +17,6 @@ h2{
 }
 
 .thatsAllFolks, {
-   background: #3a3a3a;
    display: flex;
    justify-content: center;
 
@@ -25,6 +24,9 @@ h2{
 
 .sec {
   display: flex;
-  background: #3a3a3a;
   justifty-content: center;
+}
+
+body {
+  background:  #3a3a3a;
 }
