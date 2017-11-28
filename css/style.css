@@ -4,6 +4,9 @@ font-family: 'Exo 2', sans-serif;   /* for body text */
 
 /*========= Base-Style ===========*/
 
+body {
+  background-color: #3a3a3a;
+}
 
 
 h1{
@@ -22,11 +25,3 @@ h2{
 
   }
 
-.sec {
-  display: flex;
-  justifty-content: center;
-}
-
-body {
-  background-color: #3a3a3a;
-}
