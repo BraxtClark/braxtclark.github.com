@@ -46,6 +46,10 @@ p {
 
 /*============== Basic Layout ==============*/
 
+body {
+    max-width: 100vw;
+}
+
 .wrapper {
     position: relative;
     display: flex;
@@ -200,3 +204,18 @@ input:focus {
 textarea:focus {
     border: 3px solid #B6C649;
 }
+
+/*===================== Footer ================*/
+
+footer {
+    background: var(--headerColor);
+    height: 3em;
+}
+
+footer p {
+    margin-left: 5%;
+}
+
+
+
+
